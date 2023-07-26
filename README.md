@@ -1,11 +1,11 @@
 # Event Management Web-App
 
-Event management Web-App is made for a corporate company or  a businessman who wants to host and manage Events for companies and Artists. With this Web App, one can easily host and manage event, Schedule event, Selling tickets, and Ticket sales report. This Web-App is developed in in Vue.js along with Laravel 10. For the user-interface i used vue.js and for dta handeling i used Laravel 10. For security purpose i used login authentication in Admin panel. 
+Event management Web-App is made for a corporate company or  a businessman who wants to host and manage Events for companies and Artists. With this Web App, one can easily host and manage event, Schedule event, Selling tickets, and generating Ticket sales report. This Web-App is developed in in Vue.js along with Laravel 10. For the user-interface I used vue.js and for data handeling I used Laravel 10. For security purpose I used login authentication in Admin panel. 
 
 
 ## Deployment
 
-To deploy this project locally
+To deploy this project on local server
 
 1. First download the .zip file or clone the project to the htdocs folder.
 2. After unzip the file or after cloned the file, give connection to your local database to the .env file.
