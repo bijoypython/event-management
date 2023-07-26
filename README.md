@@ -21,10 +21,10 @@ To deploy this project on local server
   2. npm run dev
 ```
 6. Aftert the server running, enter the following URLs----
-to open website---- http://localhost:8000/fest
-to open admin panel---- http://localhost:8000/login
-username: the email you entered while crating a user in user table
-password: the corresponding password of the particular user in the user table
+a) to open website---- http://localhost:8000/fest,
+b) to open admin panel---- http://localhost:8000/login,
+c) username: the email you entered while crating a user in user table,
+d) password: the corresponding password of the particular user in the user table.
 
 
 ## Features
